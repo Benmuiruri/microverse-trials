@@ -31,3 +31,20 @@ body {
     padding: 30px;
     width: 70%;
 }
+.hero p{
+    text-align: center;
+    font-size: 12px;
+}
+.timeline{
+    text-align: center;
+}
+.timeline h2{
+    font-size: medium;
+}
+.list {
+    width: 40%;
+    margin: 0 auto;
+}
+span{
+    font-weight: bold;
+}
