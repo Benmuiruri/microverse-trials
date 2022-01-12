@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 2.5em;
+    padding-top: 40px;
+}
+.header p {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.hero {
+    background-color: white;
+}
+
+.hero img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    width: 70%;
+}
